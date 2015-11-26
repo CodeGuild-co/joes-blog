@@ -3,7 +3,7 @@
     <head>
     <style>
         h1   {color:#000000}
-        p    {color:#505050}
+        p    {color:#00FF00}
     </style>
         <#include "header.ftl">
     </head>
