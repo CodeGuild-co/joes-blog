@@ -9,9 +9,6 @@
         <#include "header.ftl">
     </head>
     <body>
-        <svg width="400" height="180">
-            <rect x="50" y="20" width="150" height="150" style="fill:#cfeaff;stroke:lightblue;stroke-width:5;opacity:0.5"> 
-        </svg>
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
