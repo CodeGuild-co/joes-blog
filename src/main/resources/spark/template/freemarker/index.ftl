@@ -4,7 +4,7 @@
     <style>
         h1   {color:#000000}
         p    {color:#686868}
-        h3   {color:#686868; margin-left:400px; background-color:#00FF00}
+        h3   {color:#686868; margin-left:400px; background-color:#00FF00; width:100%}
     </style>
         <#include "header.ftl">
     </head>
