@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>I've written one blog post!</h3>
+                    <h3>Check out my posts.</h3>
                     <ul>
                         <li><a href="/posts/blogs/">All posts!</a></li>
                     </ul>
