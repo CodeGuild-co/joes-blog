@@ -3,7 +3,7 @@
     <head>
     <style>
         h1   {color:#000000; background:#CFEAFF; height:300px}
-        p    {color:#686868}
+        p    {color:#686868; background:#CFEAFF; height:300px}
         h3   {color:#686868 margin-left:20px; background-color:##FFFFFF #DFDFDF #BFBFBF #9F9F9F #7F7F7F #5F5F5F #3F3F3F #1F1F1F #000000; width:100%}
     </style>
         <#include "header.ftl">
