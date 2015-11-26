@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <style>
+        h1   {color:#000000}
+        p    {color:#505050}
+    </style>
         <#include "header.ftl">
     </head>
     <body>
@@ -16,7 +20,7 @@
                 <div class="col-md-6">
                     <h3>I've written one blog post!</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a></li>
+                        <li><a href="/posts/blogs/">All posts!</a></li>
                     </ul>
             </div>
           </div>
