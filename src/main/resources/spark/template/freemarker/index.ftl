@@ -12,7 +12,7 @@
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
-                <h1>Joe's Blog</h1>
+                <h1>Joe Bloggs</h1>
                 <p>This is my new blog about computing stuff!</p>
             </div>
         </div>
